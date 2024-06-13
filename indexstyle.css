@@ -46,6 +46,8 @@ h1:hover {
 
 #content-wrap {
   padding-bottom: 2.5rem;    /* Footer height */
+  align-items: center;
+  align-content: center;
 }
 
 #footer {
