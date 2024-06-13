@@ -166,3 +166,15 @@ svg {
     background-color: #000000;
     color: #aaff00;
 }
+
+.col-12{
+    padding: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+@media (max-width: 360px) {
+            .mb-4 {
+                margin-bottom: 1rem !important; /* Adjust this value as needed */
+            }
+        }
