@@ -48,6 +48,8 @@ h1:hover {
   padding-bottom: 2.5rem;    /* Footer height */
   align-items: center;
   align-content: center;
+
+
 }
 
 #footer {
@@ -158,4 +160,9 @@ svg {
 .head
 {
     text-align: right;
+}
+
+.modal-header, .modal-dialog, .modal-content, .modal-footer {
+    background-color: #000000;
+    color: #aaff00;
 }
